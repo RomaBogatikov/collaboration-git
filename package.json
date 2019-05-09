@@ -1,0 +1,23 @@
+{
+  "name": "collaboration-git",
+  "version": "1.0.0",
+  "description": "w08d04 morning exercise",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/RomanBogatikov/collaboration-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/RomanBogatikov/collaboration-git/issues"
+  },
+  "homepage": "https://github.com/RomanBogatikov/collaboration-git#readme",
+  "dependencies": {
+    "express": "^4.16.4"
+  }
+}
